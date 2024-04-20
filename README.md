@@ -1,2 +1,1 @@
-# Proiect_Ilie
-Proiectul lui Ilie
+# Proiect_C1
